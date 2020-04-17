@@ -1,7 +1,7 @@
 #EXTM3U KOKOSH - PUBLIC LIST
 #EXTINF:0  ,■kokosh FREE  ■
 http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
-#EXTINF:0  ,■last update : 14/04/2020 ■
+#EXTINF:0  ,■last update : 18/04/2020 ■
 http://stream.adunity.com/b1/b1_640-.m3u8
 #EXTINF:0  ,REALITATEA PLUS
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
@@ -303,6 +303,12 @@ http://hls.protv.md/hls/protv.m3u8
 http://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1,|MD| Balti TV  
 http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF:-1,|MD| Accent
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1,|MD| Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1,|MD| Elita
+http://46.55.111.242:8080/Rezina.m3u8
 ####################################################
 #EXTINF:-1,|FR| LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
@@ -314,6 +320,13 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1,|FR| TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+# =========
+#EXTINF:-1,|FR| CANAL+ (clair)
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-v3-hd-clair/canalplusclair-hd-audio_20000=96000-video=1500000.m3u8
+#EXTINF:-1,|FR| C8 HD 
+https://raw.githubusercontent.com/kokoshIPTV/tv/master/C8.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
 # =========
 #EXTINF:-1,|FR| France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
@@ -344,6 +357,10 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 # =========
 #EXTINF:-1,|FR| France 24 
 http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:-1,|FR| RT Français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:-1,|FR| CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1,|FR| BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8
 #EXTINF:-1,|FR| BFM Lille
@@ -416,8 +433,10 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,|ES| Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 # ================
-#EXTINF:-1,|ES| 324 NOTICIES
+#EXTINF:-1,|ES| 324 NOTICIES Catalunya
 http://directes-tv-int.ccma.cat/int/324/chunklist_b1296000.m3u8
+#EXTINF:-1,|ES| TV3 Catalunya
+http://directes-tv-int.ccma.cat/int/tv3/chunklist_b1296000.m3u8
 # =========
 #EXTINF:-1 ,|ES| TVG Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -435,6 +454,8 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_2_av-p.m3u8
 #EXTINF:-1,|ES| Lancelot  
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF:-1,|ES| Extremadura TV
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
 ####################################################
 #EXTINF:0 ,|IT| RAI NEWS 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
@@ -482,7 +503,7 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 ####################################################
 #EXTINF:0 ,|EN| BBC SCOTLAND
 http://51.52.156.22:8888/http/001
-#EXTINF:0 ,|EN| BBC 4/CBeebies
+#EXTINF:0 ,|EN| BBC 4
 http://51.52.156.22:8888/http/003
 # ================
 #EXTINF:0 ,|EN| ITV 1  
@@ -522,16 +543,67 @@ https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 #EXTINF:0 ,|EN| BBC NEWS
 http://51.52.156.22:8888/http/004
 #EXTINF:0 ,|EN| EURONEWS  
-http://45.126.83.51/qwr9ew/s/s15/index.m3u8
+http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:0 ,|EN| AL JAZEERA 
 http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:0 ,|EN| DW  
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 # ================
-
+#EXTINF:0 ,|EN| Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 ,|EN| Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:0 ,|EN| Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 ,|EN| Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 ,|EN| Filmrise Sci-Fi
+https://dai1.xumo.com/7a884267de5c44a9/9999437/648x432_5000000/chunklist.m3u8
 ####################################################
+#EXTINF:-1,|DE| tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1,|DE| Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
+#EXTINF:-1,|DE| Deutsche Welle +
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+#EXTINF:-1,|DE| N-TV
+https://tv-livestream.online/sender/ntv.m3u8
+#EXTINF:-1,|DE| Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1,|DE| Hr  
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1,|DE| WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1,|DE| BR HD
+http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8
+# ================
+#EXTINF:-1,|DE| One DE
+http://84.41.117.102:8080/WeCast1_live_task_node_config_78/1/playlist.m3u8
+#EXTINF:-1,|DE| ADR Alpha
+http://84.41.117.102:8080/WeCast1_live_task_node_config_76/1/playlist.m3u8
+#EXTINF:-1,|DE| Arte DE
+http://84.41.117.102:8080/WeCast1_live_task_node_config_7/1/playlist.m3u8
+# ===============
+#EXTINF:-1,|DE| ZDF
+http://137.74.203.67:4780/zdf/playlist.m3u8
+#EXTINF:-1,|DE| RTL Nitro
+http://137.74.203.67:4780/nitro/playlist.m3u8
+# ===============
+#EXTINF:-1,|DE| ProSieben
+http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
+#EXTINF:-1,|DE| ProSiben Max
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1,|DE| Sat 1
+http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,|DE| Sat1 Gold
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,|DE| VOX
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+# ===============
+#EXTINF:-1,|DE| TLC DE
+http://84.22.33.254/unicast.tlc/index.m3u8
+#EXTINF:-1,|DE| Arte DE
+http://84.22.33.254/unicast.arte/index.m3u8
 ####################################################
 #EXTINF:-1,|SK| JOJ
 https://nn.geo.joj.sk/live/hls/joj-720.m3u8
@@ -688,6 +760,31 @@ http://193.64.188.131:8031/bysid/129
 #EXTINF:-1,|NO| MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 ####################################################
+#EXTINF:-1,|TK| TRT 1   
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT 2  
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT   
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT   
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT EBA TV Ilkokul
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT EBA TV Lise
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT EBA TV Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT HABER 
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT KURDI  
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT MUZIK  
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT TURK  
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,|TK| TRT WORLD  
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+####################################################
 #EXTINF:-1,|AZ| ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1,|AZ| ARB 24
@@ -704,6 +801,35 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1,|AZ| Muz TV  
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
+####################################################
+#EXTINF:-1,|RU| RT
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1,|RU| RT America
+http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1,|RU| RT Documentary (English)
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1,|RU| RT Espanol
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1,|RU| RT France
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1,|RU| RT UK
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1,|RU| 1
+http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TV/variant.m3u8
+#EXTINF:-1,|RU| RUSSIA 1 
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,|RU| RUSSIA-K
+https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,|RU| RUSSIA RTR
+https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+####################################################
+#EXTINF:-1,|CI| RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chuklist_250000.m3u8
+#EXTINF:-1,|CI| RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chuklist_250000.m3u8
+####################################################
+#EXTINF:-1,|BR| SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 ####################################################
 #EXTINF:-1,|asia| CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -740,32 +866,284 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:0 ,☆■■☆ MUSIC ☆■■☆
 https://MUSIC
 # =================================================
-#EXTINF:0 ,TRACE URBAN FRANCE 
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
-#EXTINF:0 ,TRACE URBAN INTERNATIONAL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:0 ,TRACE URBAN DOMINICAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
-#EXTINF:0 ,TRACE AYTI
-http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:0 ,TRACE AFRICA FRANCE
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:0 ,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:0 ,TRACE GOSPEL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
-#EXTINF:0 ,TRACE KITOKO
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:0 ,TRACE LATINA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:0 ,TRACE MZIKI
+#EXTINF:-1,Trace Prime
+http://d2ktlibtvvj8vp.cloudfront.net/trace_prime/6/prog_index.m3u8
+#EXTINF:-1,Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+#EXTINF:-1,Trace Mizki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:0 ,TRACE NAIJA
+#EXTINF:-1,Trace Gospel
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1,Trace Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u
+#EXTINF:-1,TRACE Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1,TRACE kitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,TRACE Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1,TRACE Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,trace urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1,TRACE Ayiti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1,TRACE Latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,Trace URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1,Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
+#EXTINF:-1,Trace Africa FR
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
+#EXTINF:-1,Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
+#EXTINF:-1,TRACE TROPICAL
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
+#EXTINF:-1,TRACE KITOKO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
+#EXTINF:-1,Trace Urban HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1,Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1,Trace Gospel audio
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/7/prog_index.m3u8
+#EXTINF:-1,Trace Gospel audio
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/8/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars FHD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/5/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars SD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars 4x3
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/3/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars mobile
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/2/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars LO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/1/prog_index.m3u8
+#EXTINF:-1,Trace Africa (TTV)
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
+#EXTINF:-1,Trace Kitoko (TTV)
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
+#EXTINF:-1,Trace Toca (TTV)
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1,Trace Tropical (TTV)
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+#EXTINF:-1,Trace Latina
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/live.m3u8
+#EXTINF:-1,Trace Ayti
+https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/live.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/1/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/2/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/3/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/4/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/5/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/1/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/2/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1,TRACE AFRICA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/live.m3u8
+#EXTINF:-1,TRACE URBAN FR
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/live.m3u8
+#EXTINF:-1,TRACE GOSPEL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
+#EXTINF:-1,TRACE KITOKO
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/live.m3u8
+#EXTINF:-1,TRACE Sport stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/live.m3u8
+#EXTINF:-1,TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/live.m3u8
+#EXTINF:-1,TRACE NAIJA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/live.m3u8
+#EXTINF:-1,TRACE TOCA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/live.m3u8
+#EXTINF:-1,TRACE TROPICAL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/live.m3u8
+#EXTINF:-1,TRACE URBAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/live.m3u8
+#EXTINF:-1,Trace Latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/live.m3u8
+#EXTINF:-1,Trace Ayti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/live.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/1/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/2/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/3/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/4/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/5/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN fr
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/1/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/2/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1,TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/live.m3u8
+#EXTINF:-1,TRACE GOSPEL
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
+#EXTINF:-1,TRACE KITOKO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/live.m3u8
+#EXTINF:-1,TRACE Sport stars
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/live.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/live.m3u8
+#EXTINF:-1,TRACE TOCA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/live.m3u8
+#EXTINF:-1,TRACE TROPICAL
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/live.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/live.m3u8
+#EXTINF:-1,Trace Africa FR
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars HD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/5/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars SD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars 4x3
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/3/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars mobile
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/2/prog_index.m3u8
+#EXTINF:-1,Trace Sport stars LO
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/1/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN FR
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/live.m3u8
+#EXTINF:-1,TRACE MZIKI
+https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/live.m3u8
+#EXTINF:-1,MIZKI
+https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/4/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/3/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/2/prog_index.m3u8
+#EXTINF:-1,Trace Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/1/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/5/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/4/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/3/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/2/prog_index.m3u8
+#EXTINF:-1,Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/1/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/5/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/4/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/3/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/2/prog_index.m3u8
+#EXTINF:-1,Trace Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/1/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/6/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/4/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/3/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/2/prog_index.m3u8
+#EXTINF:-1,Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/1/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/5/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/4/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/3/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/2/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/1/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/5/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/4/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/3/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/2/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/1/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/5/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/4/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/3/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/2/prog_index.m3u8
+#EXTINF:-1,Trace Afrikora
+https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/1/prog_index.m3u8
+#EXTINF:-1,Trace Gospel HD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1,Trace Kitoko HD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:0 ,TRACE TOCA
+#EXTINF:-1,Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:0 ,TRACE TROPICAL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8 
+#EXTINF:-1,Trace Tropical HD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,TRACE AFRICA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1,TRACE LATINA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,TRACE SPORT STARS
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1,Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8﻿﻿
 # =======
 #EXTINF:0 ,DJing Animation
 https://www.djing.com/tv/animation.m3u8
