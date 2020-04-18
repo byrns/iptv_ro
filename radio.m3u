@@ -25,6 +25,21 @@ http://radiofg.impek.com/fgd
 #EXTINF:-1,FG Underground
 http://radiofg.impek.com/ufg.mp3
 #####################################################
+#EXTINF:-1,Amsterdams Most Wanted [powered by The Three Sisters Pub Amsterdam]
+http://77.168.22.74:8000/stream
+#EXTINF:-1,Amsterdams Most Wanted [powered by The Three Sisters Pub Amsterdam]
+http://77.168.22.74:8004/stream
+#EXTINF:-1,Amsterdams Most Wanted [powered by The Three Sisters Pub Amsterdam]
+http://77.168.22.74:8002/stream
+#EXTINF:-1,AMW HIPHOP | Amsterdams Most Wanted UNDERGROUND HIPHOP | HD stream
+http://77.168.22.74:8008/stream
+#EXTINF:-1,= LONDON MOST WANTED
+http://77.168.22.74:8010/stream
+#EXTINF:-1,= LONDON MOST WANTED
+http://77.168.22.74:8012/stream
+#EXTINF:-1,AMW HIPHOP | Amsterdams Most Wanted UNDERGROUND HIPHOP | mobile stream
+http://77.168.22.74:8018/stream
+#####################################################
 #EXTINF:-1 ,DIGI FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1 ,EUROPA FM
