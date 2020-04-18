@@ -1,7 +1,7 @@
 #EXTM3U KOKOSH - PUBLIC LIST
 #EXTINF:0  ,■kokosh FREE  ■
 http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
-#EXTINF:0  ,■last update : 18/04/2020 ■
+#EXTINF:0  ,■last update : 19/04/2020 ■
 http://stream.adunity.com/b1/b1_640-.m3u8
 #EXTINF:0  ,REALITATEA PLUS
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
@@ -1418,21 +1418,124 @@ http://85.244.70.140:8000/play/a01k
 #EXTINF:0  ,⚽️Eleven Sports 5
 http://85.244.70.140:8000/play/a01v
 ####################################################
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/6dd04c9d7e4843b9201d39acc7f27e2f.png" ,⚽️FUTBOL 1 HD UA
+http://141.105.128.174:10001/football_1_hd
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/3ee0f361360a7112106ab4ff9aaa83c7.png"  ,⚽️FUTBOL 2 HD UA
+http://141.105.128.174:10001/football_2_hd
+####################################################
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/setanta-sports.png"  ,⚽️SETANTA SPORT 1
+http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
+####################################################
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/match-futbol-1.png" ,⚽️МАТЧ! ФУТБОЛ 1 HD 
+http://91.103.248.82:81/play/a00j
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/match-futbol-2.png"  ,⚽️МАТЧ! ФУТБОЛ 2 HD 
+http://91.103.248.82:81/play/a00i
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/match-futbol-3.png"  ,⚽️МАТЧ! ФУТБОЛ 3 HD  
+http://91.103.248.82:81/play/a003
+# ================
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/match-premier.png" ,⚽️MATCH! PREMIER FHD
+http://182.73.122.74:10001/bysid/706
+# ================
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️SETANTA SPORTS HD
+http://188.35.9.12:21081/udp/157s
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️MATCH! STRANA
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png"  ,⚽️MATCH! HD
+http://188.35.9.26:11031/udp/184d
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️SPORTKLUB HD
+http://188.35.9.11:21161/udp/170z
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️МАТЧ! СТРАНА
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.11:21151/udp/167u
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" g ,⚽️МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.12:21151/udp/167u
+####################################################
+#EXTINF:0  tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png"  ,⚽️REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/gol-tv.png"  ,⚽️GOL LATINO
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+#EXTINF:0 tvg-logo="http://static.manutv.net/canale/mari/fight-time.png" ,⚽️Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+####################################################
 #EXTINF:-1,⚽️Eurofootball 1
 http://www.eurofootball.bg/hls/fifa2.m3u8
 #EXTINF:-1,⚽️Eurofootball 2
 http://www.eurofootball.bg/hls/vhorses2.m3u8
 ####################################################
-#EXTINF:-1,⚽️Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,⚽️Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,⚽️Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,⚽️Dubai Sports 2  
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,⚽️Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 ####################################################
-#EXTINF:-1,⚽️Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️AD Sport 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️AD Sport 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️AD Sport 3  
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️AD Sport 4  
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+# ====================
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/243e9080943ab8553a7114528a83bedc.png"  ,⚽️Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/243e9080943ab8553a7114528a83bedc.png"  ,⚽️Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/243e9080943ab8553a7114528a83bedc.png"  ,⚽️Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/243e9080943ab8553a7114528a83bedc.png"  ,⚽️Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/243e9080943ab8553a7114528a83bedc.png"  ,⚽️Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+# ====================
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/d5f58315493c4d925f92323725c9f31b.png" ,⚽️Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/d5f58315493c4d925f92323725c9f31b.png"  ,⚽️Dubai Sports 2 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/d5f58315493c4d925f92323725c9f31b.png"  ,⚽️Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing.ae.png" ,⚽️Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing2.ae.png"  ,⚽️Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+# ====================
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️ON SPORT
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️IRIB VARZESH
+https://livetv.persianleague.com/live/varzesh/chunks.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️IRIB VARZESH*
+https://api.telewebion.com/v2/varzesh/live.m3u8 
+####################################################
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/CanalPlusSport.pl.png"  ,⚽️Canal+ Sports Polska
+http://207.110.52.62:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/ElevenSport1.pl.png"  ,⚽️Eleven Sports Polska
+http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/ElevenSport2.pl.png"  ,⚽️Eleven Sports 2 Polska
+http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+####################################################
+#EXTINF:0  tvg-logo="http://static.iptv-epg.com/in/SonyTEN1.in.png"  ,⚽️SONY TEN 1
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:0  tvg-logo="http://static.iptv-epg.com/in/SonyTEN2.in.png"  ,⚽️SONY TEN 2
+http://163.172.85.133:8080/TenS/2/index.m3u8
+#EXTINF:0  tvg-logo="http://static.iptv-epg.com/in/SonyTEN3.in.png"  ,⚽️SONY TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+####################################################
+#EXTINF:0  tvg-logo="http://i.imgur.com/mZKxIBA.jpg" ,⚽️ERT Sports GR
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:0 tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg"  ,⚽️DISCOVERY SPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 tvg-logo="http://static.iptv-epg.com/in/DDSports.in.png" ,⚽️DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️Viasat Sport HD
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️NTV SPORT MOLDOVA
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg" ,⚽️ALL SPORTS TV
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png"  ,⚽️RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-logo="https://controlpublicidad.com//uploads/2018/12/sport-034954.jpg"  ,⚽️Sport 2U 
+http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
+
