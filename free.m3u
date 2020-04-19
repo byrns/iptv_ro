@@ -691,7 +691,7 @@ http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
 http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
 #EXTINF:-1,|AL| RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
-#EXTINF:-1,|AL| ,RTSH Muzike
+#EXTINF:-1,|AL| RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
 #EXTINF:-1,|AL| RTSH 24
 http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
@@ -713,9 +713,9 @@ http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 ####################################################
 #EXTINF:-1,|GR| ERT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1,|GR| ERT2
+#EXTINF:-1,|GR| ERT 2
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1,|GR| ERT3
+#EXTINF:-1,|GR| ERT 3
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 ####################################################
 #EXTINF:-1,|CY| BRT 1
@@ -866,284 +866,46 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:0 ,☆■■☆ MUSIC ☆■■☆
 https://MUSIC
 # =================================================
-#EXTINF:-1,Trace Prime
-http://d2ktlibtvvj8vp.cloudfront.net/trace_prime/6/prog_index.m3u8
-#EXTINF:-1,Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
-#EXTINF:-1,Trace Mizki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
-#EXTINF:-1,Trace Tropical
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u
 #EXTINF:-1,TRACE Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1,TRACE kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1,TRACE Naija
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1,TRACE Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1,trace urban
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1,TRACE Ayiti
-http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1,TRACE Latina
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1,Trace URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1,Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
-#EXTINF:-1,Trace Africa FR
+#EXTINF:-1,TRACE Africa FR
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,Trace Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
-#EXTINF:-1,Trace Naija
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
-#EXTINF:-1,TRACE TROPICAL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
-#EXTINF:-1,TRACE KITOKO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
-#EXTINF:-1,Trace Urban HD 720
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1,Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Trace Gospel audio
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/7/prog_index.m3u8
-#EXTINF:-1,Trace Gospel audio
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/8/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars FHD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/5/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars SD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars 4x3
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/3/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars mobile
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/2/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars LO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/1/prog_index.m3u8
-#EXTINF:-1,Trace Africa (TTV)
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
-#EXTINF:-1,Trace Kitoko (TTV)
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
-#EXTINF:-1,Trace Toca (TTV)
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
-#EXTINF:-1,Trace Tropical (TTV)
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
-#EXTINF:-1,Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/live.m3u8
-#EXTINF:-1,Trace Ayti
-https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/live.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/1/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/2/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/3/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/4/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/5/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/1/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/2/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/live.m3u8
-#EXTINF:-1,TRACE URBAN FR
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/live.m3u8
-#EXTINF:-1,TRACE GOSPEL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1,TRACE KITOKO
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/live.m3u8
-#EXTINF:-1,TRACE Sport stars
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/live.m3u8
-#EXTINF:-1,TRACE MZIKI
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/live.m3u8
-#EXTINF:-1,TRACE NAIJA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/live.m3u8
-#EXTINF:-1,TRACE TOCA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/live.m3u8
-#EXTINF:-1,TRACE TROPICAL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/live.m3u8
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/live.m3u8
-#EXTINF:-1,Trace Latina
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/live.m3u8
-#EXTINF:-1,Trace Ayti
-http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/live.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/1/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/2/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/3/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/4/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/5/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN fr
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/1/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/2/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:-1,TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/live.m3u8
-#EXTINF:-1,TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1,TRACE KITOKO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/live.m3u8
-#EXTINF:-1,TRACE Sport stars
-http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/live.m3u8
-#EXTINF:-1,TRACE NAIJA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/live.m3u8
-#EXTINF:-1,TRACE TOCA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/live.m3u8
-#EXTINF:-1,TRACE TROPICAL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/live.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/live.m3u8
-#EXTINF:-1,Trace Africa FR
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars HD
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/5/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars SD
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars 4x3
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/3/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars mobile
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/2/prog_index.m3u8
-#EXTINF:-1,Trace Sport stars LO
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/1/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN FR
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/live.m3u8
-#EXTINF:-1,TRACE MZIKI
-https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/live.m3u8
-#EXTINF:-1,MIZKI
-https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/1/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/5/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/4/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/3/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/2/prog_index.m3u8
-#EXTINF:-1,Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/1/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/5/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/4/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/3/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/2/prog_index.m3u8
-#EXTINF:-1,Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/1/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/5/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/4/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/3/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/2/prog_index.m3u8
-#EXTINF:-1,Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/1/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/6/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/5/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/4/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/3/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/2/prog_index.m3u8
-#EXTINF:-1,Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelroa/1/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/5/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/4/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/3/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/2/prog_index.m3u8
-#EXTINF:-1,Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/1/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/5/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/4/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/3/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/2/prog_index.m3u8
-#EXTINF:-1,Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/1/prog_index.m3u8
 #EXTINF:-1,Trace Afrikora
 https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
-#EXTINF:-1,Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/5/prog_index.m3u8
-#EXTINF:-1,Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/4/prog_index.m3u8
-#EXTINF:-1,Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/3/prog_index.m3u8
-#EXTINF:-1,Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/2/prog_index.m3u8
-#EXTINF:-1,Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/1/prog_index.m3u8
-#EXTINF:-1,Trace Gospel HD
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
-#EXTINF:-1,Trace Kitoko HD
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1,Trace Naija
+#EXTINF:-1,TRACE Ayiti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1,Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
+#EXTINF:-1,Trace Gospel South Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
+#EXTINF:-1,TRACE Gospel
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1,TRACE Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8 
+#EXTINF:-1,TRACE Latina
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,TRACE Mizki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1,TRACE Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1,Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1,Trace Tropical HD
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1,TRACE LATINA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1,TRACE SPORT STARS
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
-#EXTINF:-1,Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8﻿﻿
+#EXTINF:-1,TRACE Prime
+http://d2ktlibtvvj8vp.cloudfront.net/trace_prime/6/prog_index.m3u8
+#EXTINF:-1,TRACE Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,TRACE Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN FR
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN DOMINICAN
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
+#EXTINF:-1,TRACE Jama
+https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
+#EXTINF:-1,TRACE Sport Stars  
+http://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1,TRACE Vanilla
+https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
 # =======
 #EXTINF:0 ,DJing Animation
 https://www.djing.com/tv/animation.m3u8
@@ -1365,6 +1127,7 @@ http://185.46.161.3/hls/sd.m3u8
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Balkanika HD
 http://84.22.33.254/unicast.ballkanika/index.m3u8
+
 
 
 # =================================================
