@@ -1,7 +1,7 @@
 #EXTM3U8 KOKOSH - XXX
 #EXTINF:0 ,■kokoshIPTV - XXX ■
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 ,■last update : 17/04/2020 ■
+#EXTINF:0 ,■last update : 20/04/2020 ■
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1,babestation
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
