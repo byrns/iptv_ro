@@ -5,6 +5,12 @@ http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 #EXTINF:0 ,■■■■Last update 07/08/2020■■■■
 http://stream.adunity.com/b1/b1_640-.m3u8
 # ============
+#EXTINF:0,CA (FR) ICI Tele Montreal HD
+http://live.realiptv.to:25461/lauren/lauren/88054
+#EXTINF:0 ,■CBC Montreal
+http://live.realiptv.to:25461/lauren/lauren/3245
+#EXTINF:0,CA CBC News Network
+http://live.realiptv.to:25461/lauren/lauren/21880
 #EXTINF:0 ,■REALITATEA TV
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:0 ,■REALITATEA PLUS
