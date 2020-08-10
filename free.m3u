@@ -175,6 +175,30 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:0 ,|FR| TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 ,|FR| 6TER
+http://213.150.180.161:8888/play/a00l
+#EXTINF:0 ,|FR| BFM TV
+http://213.150.180.161:8888/play/a009
+#EXTINF:-0 ,|FR| C8
+http://213.150.180.161:8888/play/a00a
+#EXTINF:-0 ,|FR| CHERIE 25
+http://213.150.180.161:8888/play/a007
+#EXTINF:0 ,|FR| CSTAR
+http://213.150.180.161:8888/play/a00b
+#EXTINF:0 ,|FR| GULLI
+http://213.150.180.161:8888/play/a00c
+#EXTINF:0 ,|FR| L'EQUIPE
+http://213.150.180.161:8888/play/a004
+#EXTINF:0 ,|FR| NRJ12
+http://213.150.180.161:8888/play/a00t
+#EXTINF:0 ,|FR| ,TF1 SERIES FILMS
+http://213.150.180.161:8888/play/a003
+#EXTINF:0 ,|FR| ,TFX
+http://213.150.180.161:8888/play/a00n
+#EXTINF:0 ,|FR| TMC
+http://213.150.180.161:8888/play/a00w
+#EXTINF:0 ,|FR| W9
+http://213.150.180.161:8888/play/a00k
 ####################################################
 #EXTINF:0 ,|BE| Les News 24 
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
