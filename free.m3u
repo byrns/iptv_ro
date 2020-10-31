@@ -1,54 +1,21 @@
 #EXTM3U8
-#EXTINF:0 ,★★★★https://kokosh-freetv.blogspot.com★★★★
 http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
-# ============
-#EXTINF:0 ,■■■■Last update 07/08/2020■■■■
-http://stream.adunity.com/b1/b1_640-.m3u8
-# ============
-#EXTINF:0,CA (FR) ICI Tele Montreal HD
-http://live.realiptv.to:25461/lauren/lauren/88054
-#EXTINF:0 ,■CBC Montreal
-http://live.realiptv.to:25461/lauren/lauren/3245
 #EXTINF:0 ,■REALITATEA TV
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:0 ,■REALITATEA PLUS
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 ,■REALITATEA +  
 http://78.109.108.62:6012/realitatea
-########################################################## 
-#EXTINF:0 ,⚽️DIGISPORT 1 HD
-http://84.54.148.38:8080/digisport1/index.m3u8
-# =========================== 
-#EXTINF:0 ,⚽️DIGISPORT 1 RO (udp)
-http://85.217.192.228:4080/udp/239.239.39.14:30000
-#EXTINF:0 ,⚽️DIGISPORT 2 RO (udp)
-http://85.217.192.228:4080/udp/239.239.39.20:30000
-#EXTINF:0 ,⚽️DIGISPORT 1 HU (udp)
-http://85.217.192.228:4080/udp/239.239.39.23:30000
-#EXTINF:0 ,⚽️DIGISPORT 2 HU (udp)
-http://85.217.192.228:4080/udp/239.239.39.16:30000
-#EXTINF:0 ,⚽️MAX Sport 2 BG (udp)
-http://85.217.192.228:4080/udp/239.239.39.42:30000
-# =========================== 
-#EXTINF:0 ,⚽️DIGISPORT 1 HU  
-http://rstr0.teamnetwork.co/stream181/stream.m3u8
-#EXTINF:0 ,⚽️DIGISPORT 2 HU
-http://rstr0.teamnetwork.co/stream182/stream.m3u8
-#EXTINF:0 ,⚽️SPORT 1 HU 
-http://rstr0.teamnetwork.co/stream184/stream.m3u8
-#EXTINF:0 ,⚽️M4 SPORT HU
-http://rstr0.teamnetwork.co/stream183/stream.m3u8
-########################################################## 
-#EXTINF:0 ,TVR 1	
+#EXTINF:0 ,TVR 1 HD
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:0 ,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0 ,TVR 2 HD
+http://https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 #EXTINF:0 ,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:0 ,TVR MOLDOVA
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 #EXTINF:0 ,TVR INTERNATIONAL
-http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 # =========
 #EXTINF:0 ,TVR 2 SD
 http://89.38.8.130:39411
@@ -118,14 +85,16 @@ http://193.33.39.108:8113/31114
 http://193.33.39.108:8107/30701
 #EXTINF:0 ,CBS REALITY 
 http://193.33.39.108:8115/30905
-###################################################### 
-#EXTINF:0 ,★DIASPORA TV
-http://86.122.134.1:1935/diasporatv/live/chunklist_w905299875.m3u8
-#EXTINF:0 ,★DIBI TV
-http://tv.dibitv.ro:1935/dibitv/live/chunklist_w1916923570.m3u8
-# =============================
-#EXTINF:0 ,★Busuioc TV
-https://busuioctv.iforward.eu/hls/busuioc.m3u8
+# =========================== 
+#EXTINF:0 ,⚽️DIGISPORT 1 HU  
+http://rstr0.teamnetwork.co/stream181/stream.m3u8
+#EXTINF:0 ,⚽️DIGISPORT 2 HU
+http://rstr0.teamnetwork.co/stream182/stream.m3u8
+#EXTINF:0 ,⚽️SPORT 1 HU 
+http://rstr0.teamnetwork.co/stream184/stream.m3u8
+#EXTINF:0 ,⚽️M4 SPORT HU
+http://rstr0.teamnetwork.co/stream183/stream.m3u8
+########################################################## 
 # =============================
 #EXTINF:0 ,★FAVORIT
 http://78.109.108.62:6010/favorit
@@ -164,13 +133,6 @@ http://video.a-tv.md/hls/accent.m3u8
 http://web.sats.gstv.tech/cpl11/00987101-cd36-49ed-a5e1-bcfaa25d0d85/N4web.m3u8
 #EXTINF:0 ,MBC MOLDOVA
 http://live.cdn.mbc.md/MBC_HD/index.m3u8
-
-
-
-# ===================================================
-#EXTINF:0 ,★■■★WORLD★■■★
-http://WORLD
-# ===================================================
 # =================================================
 #EXTINF:0 ,★●■ FRANCE ■●★
 https://FR
@@ -492,9 +454,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0 ,|TV| SONNENKLAR TV 
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-
-
-
 # ===================================================
 #EXTINF:0 ,★■■★MUSIC★■■★
 http://MUZ
