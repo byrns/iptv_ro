@@ -28,6 +28,12 @@ http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
 #EXTINF:0 ,TVR 2 SD
 http://89.38.8.130:39411
 # =============================
+#EXTINF:-1 ,Pro TV HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26904
+#EXTINF:-1 ,Pro TV SD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26903
+#EXTINF:-1 ,PRO TV UHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26905
 #EXTINF:0 ,PRO TV
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:0 ,PRO X  
